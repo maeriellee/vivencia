@@ -1,0 +1,17 @@
+.tools/
+
+vibe-app/.env
+vibe-app/.env.*
+!vibe-app/.env.example
+vibe-app/vendor/
+vibe-app/node_modules/
+vibe-app/storage/logs/*.log
+vibe-app/storage/framework/cache/data/*
+vibe-app/storage/framework/sessions/*
+vibe-app/storage/framework/views/*.php
+vibe-app/storage/app/vivencia/*.json
+vibe-app/bootstrap/cache/*.php
+vibe-app/.phpunit.result.cache
+
+.DS_Store
+Thumbs.db
