@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+.tools
+vibe-app/.env
+vibe-app/.env.*
+vibe-app/vendor
+vibe-app/node_modules
+vibe-app/storage/app/vivencia/*.json
+vibe-app/storage/framework/cache/data/*
+vibe-app/storage/framework/sessions/*
+vibe-app/storage/framework/views/*.php
+vibe-app/storage/logs/*.log
+vibe-app/bootstrap/cache/*.php
