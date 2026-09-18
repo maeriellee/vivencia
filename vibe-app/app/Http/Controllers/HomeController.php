@@ -28,6 +28,11 @@ class HomeController extends Controller
         return view('contact');
     }
 
+    public function about(): View
+    {
+        return view('about');
+    }
+
     public function order(Request $request): View
     {
         return view('order', [
