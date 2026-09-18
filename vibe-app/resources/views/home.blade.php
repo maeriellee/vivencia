@@ -4,7 +4,7 @@
 <section class="relative w-full -mt-20 overflow-hidden bg-inverse-surface">
 <!-- Hero Background Image & Layered Tint Overlays -->
 <div class="absolute inset-0 z-0">
-<img alt="Warm artisan Filipino panaderia counter with ube creme brulee and dulce de leche chocolate cake in San Antonio" class="w-full h-full object-cover object-center transform scale-105 filter brightness-95 contrast-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCtsiXhXO-3RVoTN9_WBT7hh8X9LeRN2R-4W2dCBL5S_ry7ueq0AkKz_F2BXkcr8tKV5sNP_ls2BrLDU5i6kq98CGyAc6GV9_LpfX-LMTnF9Quo8-S2Kkoh_tYQApJLhVIOiB_YW1jNTWV6i9F4xqD6u1XMKNry_4AkeCDzwFSzqwSikkzn2ccp4NQlVcecxFxsy04NS-zgKl_P6r1Dn8-Sqlie9z7X2f1bxJD2qiF27gYZtD59ZEbrlQ">
+<img alt="Warm artisan Filipino panaderia counter with ube creme brulee and dulce de leche chocolate cake in San Antonio" class="w-full h-full object-cover object-center transform scale-105 filter brightness-95 contrast-105" src="/images/vivencia/header-photo.jpg">
 <div class="absolute inset-0 bg-gradient-to-t from-inverse-surface via-inverse-surface/75 to-inverse-surface/40 mix-blend-multiply"></div>
 <div class="absolute inset-0 bg-gradient-to-r from-inverse-surface/90 via-primary/30 to-transparent"></div>
 </div>
@@ -27,7 +27,7 @@
 <!-- Action Buttons & Quick Stats -->
 <div class="flex flex-wrap items-center gap-space-md pt-space-xs">
 <a class="px-space-xl py-space-md rounded-full bg-tertiary-fixed-dim text-on-tertiary-fixed font-label-lg text-label-lg shadow-lg hover:bg-tertiary-fixed transition-all transform hover:-translate-y-0.5 inline-flex items-center gap-space-sm" href="#preorder-flow">
-<span class="">Request an Order</span>
+<span class="">Add to Order</span>
 <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
 </a>
 <a class="px-space-lg py-space-md rounded-full bg-surface-container-lowest/15 backdrop-blur-md text-inverse-on-surface font-label-lg text-label-lg hover:bg-surface-container-lowest/25 transition-all inline-flex items-center gap-space-xs" href="#menu-delights">
@@ -80,7 +80,7 @@
 </div>
 <div class="flex items-center gap-space-sm shrink-0 w-full md:w-auto">
 <a class="w-full md:w-auto text-center px-space-lg py-space-sm rounded-full bg-surface-container-lowest text-primary font-label-md text-label-md shadow hover:bg-surface-container-low transition-all" href="#menu-delights">
-          Reserve Box
+          Add to Order
         </a>
 </div>
 </div>
@@ -189,7 +189,7 @@
 <!-- Product 1: Ube Crème Brûlée -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="cakes">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A round rustic clay dish containing vibrant purple ube creme brulee with a caramelized golden torched sugar spiral on top, resting on an artisan specked ceramic plate with crumbly shortbread dusting on a wooden bakery counter, warm lighting, appetizing food photography." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBUBr401HgCqderB1PEh_HhaTJFkk_z9fGcxq6pSIGKWEzQQbSbJclwl660o39GZq5BFjIH6ejGxix6O53ZNV1M08fesrVgE6bcRKlwD2UKbKADTroBtvVRp-_-VH9AJCBMSWudawaBDNAVYe4CIf0Sgcu8XaMuewl8s5s5LGNdf6C5MY4OngMD2G4ZNc8Cnco2HRIKNO0xTQ80JZacZX2uRwoNjtAM1xJOpm0IT12UsAUqX6lTwnL-EaAmApv7GH5q6J8">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A round rustic clay dish containing vibrant purple ube creme brulee with a caramelized golden torched sugar spiral on top, resting on an artisan specked ceramic plate with crumbly shortbread dusting on a wooden bakery counter, warm lighting, appetizing food photography." src="/images/menu/ube-creme-brulee.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-secondary text-on-secondary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Signature
             </span>
@@ -215,7 +215,7 @@
 <!-- Product 2: Chocolate Dulce de Leche Cake -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="cakes">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A tall slice of decadent three-layer chocolate sponge cake filled with dripping golden dulce de leche caramel, chocolate frosting curls on top, powdered sugar dust on a ceramic plate, warm rustic panaderia atmosphere." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB8ZMkw1iMpR3Ru3s-LIwOfaqxS63iW7a0AScG6w170G3wTBmIVyCzUOzEXGeBJ_n7SHgjPrd0e2q5HPBz2olKCmC8C6xUf25AeZsKQXReApO3XYMdLDuj9tdWLaR0sek2gQbhdmV3crqaecZmwazIa1H95s88G-fFubpdCXyXvJjVd1B_8WoUvWTYvEXYMkv601aIoLFfgUoR0UCQkMX7VeotAcSWQitD-t7eFixY3U3f1qrlFAOPYsRkioLf_Ksa-zsM">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A tall slice of decadent three-layer chocolate sponge cake filled with dripping golden dulce de leche caramel, chocolate frosting curls on top, powdered sugar dust on a ceramic plate, warm rustic panaderia atmosphere." src="/images/menu/chocolate-cake.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-tertiary-container text-on-tertiary-container font-label-sm text-label-sm tracking-wider uppercase shadow">
               Bestseller
             </span>
@@ -241,7 +241,7 @@
 <!-- Product 3: Ube Macapuno with Flan -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="cakes">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A round Filipino celebration cake layered with purple ube chiffon, sweet tender macapuno coconut strings, topped with a whole glistening golden Leche Flan crown, decorated with violet cream rosettes, high-end bakery style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBAEA1OUJyuQyYYfSdAY0VdAUGAygids3n3pucURfNHZRxqp-DdtNfSnXXtzWp4bbLsCTcNd-6eq3dzWeNo96eR8UqKUD07vCX7uHLQLW2qZILy0i4Bj3hXSUBy-KplcomyoMum_XDTsNPIfA67QxNPhPeo3clD7K_diqPFN1PQz_t9WG_MBl95s8kvEfgu3MFFdq2t9-MJLQQUVUgIyQBoKwV-hNopVGJi3dv1-v8RLRIbPSv_wDU7u8qitdoxtUuh7OI">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A round Filipino celebration cake layered with purple ube chiffon, sweet tender macapuno coconut strings, topped with a whole glistening golden Leche Flan crown, decorated with violet cream rosettes, high-end bakery style." src="/images/menu/ube-macapuno-cake.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-secondary text-on-secondary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Heritage Duo
             </span>
@@ -267,7 +267,7 @@
 <!-- Product 4: Yema Cake -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="cakes">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Classic Filipino Yema Cake showing a slice of fluffy golden chiffon smothered in rich glossy condensed milk custard glaze and generously topped with finely grated sharp cheddar cheese." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAbCGBtUwMG2Zbk8tk0uurmrXJCU1aPivJqAb0uFRl6dMZzZ9HTvZ5mr1yoqj61Q0SIASf_sjiVlO36Bz7_3DcmoDp0UXTKMVAf2-FMNz7x3XcGc8qfF27lhQyZB16cylqgHpIuJ7FEq847MeU93GwkjvuPcxkNzX58O5KB_goyLvyXTwvmbZVSd5SLzyvZuqsDX3L03hBXnCLgzThB6P3VafhlhGcDSrFsLaRz0up7gRNrU8Ak_P6BzQ52dBOca69f0Yw">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Classic Filipino Yema Cake showing a slice of fluffy golden chiffon smothered in rich glossy condensed milk custard glaze and generously topped with finely grated sharp cheddar cheese." src="/images/menu/yema-cake.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-tertiary text-on-tertiary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Classic Sweet &amp; Savory
             </span>
@@ -293,7 +293,7 @@
 <!-- Product 5: Ube Cheese Pandesal -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="breads">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A woven banig basket filled with freshly baked purple ube cheese pandesal rolls coated in fine breadcrumbs, one roll pulled open revealing melted gooey cheddar cheese and vibrant violet ube halaya steam rising." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDvC_yvNUzthphtUdFFRo7rqRImHhuoPYDZycDzrlJTj_nR8iEmbBHWg4o170lT36hY48xz9B7Mrlk4bzfUtBobEoMlVDiPPaafUwdYdQuDVp6pyv66mHy39vEt73z782jSlZYXTqSQo26Gc9hE6WrCnF9Jh1LAmC-5a6n7FwPkVB5dvN_JbXMCHs8QnkpfVGKOEyKQvz3lJmjgH4Zp_BWLEY6_t8X4_ysoBpnmDAqxO-IfDaiAwxpNRc9fsnaKjJJi0Dc">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A woven banig basket filled with freshly baked purple ube cheese pandesal rolls coated in fine breadcrumbs, one roll pulled open revealing melted gooey cheddar cheese and vibrant violet ube halaya steam rising." src="/images/menu/ube-cheese-pandesal.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-primary-container text-on-primary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Breakfast Favorite
             </span>
@@ -319,7 +319,7 @@
 <!-- Product 6: Traditional Leche Flan -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between border-0 shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="cakes">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Oval llanera mold of glossy Filipino Leche Flan inverted onto a porcelain dish, surrounded by rich deep amber caramelized sugar syrup, perfectly smooth texture with no air bubbles." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAfsORni4_8BCx8oyH1A5vgxBxR5OjgqspJab9qUBWjj4KYS-Cq-6C0hXk1FsR_CDQKBvWsiQWUwnwxDJ3ddA8_tWYMIXSLTPw3iQuNWjMJs_yFCRktaQ__6DcpONk2Akq0ZPvaaZjAzAEUq1mqVPxWQYW6z8sOHoXL2UbWEnfFsSofd3XJEcwDt1HbF5TW695U372GRPzx6cJi3oyE7bJp973h7t4uucZ7iytWcQiAPL4-dr69oHuxW13HNJtZm2GNxPY">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Oval llanera mold of glossy Filipino Leche Flan inverted onto a porcelain dish, surrounded by rich deep amber caramelized sugar syrup, perfectly smooth texture with no air bubbles." src="/images/menu/leche-flan.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-tertiary-fixed-dim text-on-tertiary-fixed font-label-sm text-label-sm tracking-wider uppercase shadow">
               Rich Custard
             </span>
@@ -345,7 +345,7 @@
 <!-- Product 7: Fresh Spanish Bread -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="breads">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Golden baked Filipino Spanish bread rolls lined up on parchment paper, dusted with fine breadcrumbs and filled with warm sweet buttery sugar paste, artisan bakery kitchen background." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAnj-IqShEd2Ek546xM46qc_MRejXmYZPWhgrsuao6lnM-sFncPhzZbOmxzjfTEFC7pevB3ILG0GAAkh6ABwfvFFHR3kzlfJ8QR0qeSV1adWyrDgypcXvvZA4s850D9pRP9Q4bJiiTv7JG_F8xQlQf-6YPSyK37fcObw4od58dIH1W6-mmHGUn4HAwhgCSn4syKAm3Oi6RBbl4cEpohd08fwXb2Vey4zfgUueNW7Xx1hmZk5_oLWsS7X02rVKl5fMrAJXk">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Golden baked Filipino Spanish bread rolls lined up on parchment paper, dusted with fine breadcrumbs and filled with warm sweet buttery sugar paste, artisan bakery kitchen background." src="/images/menu/spanish-bread.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-surface-variant text-primary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Daily Batch
             </span>
@@ -371,7 +371,7 @@
 <!-- Product 8: Housemade Ube Jam (Halaya) -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="halaya">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A vintage glass mason jar filled with thick royal purple Ube Halaya jam, tied with twine and kraft paper tag, a wooden spoon resting nearby showing the rich smooth texture, warm Texas sunlight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDOOmJjXHSEP39zOprB2zFvCDSysriPnSsS3vJSomel3Da4tILihYn5Irs4qId5zu9V9dlunUx8N6pmd4Wq3y8OfbCCi0gihZ3TCCgX9oLL5ER4BOAqWBJwss58s53L_0MqdU2pZDZPYts7zjxcHdoN7SfrsXjBV-K9SzaYWM3JGSU3X36A9QPU_hDH3hGM_Eq9rj-FC5oLChWzDxRlStPQVtQn0eIivX-c9GOvSoOMP3mzr-y7pwrjaoEzNajjaSAUAT4">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A vintage glass mason jar filled with thick royal purple Ube Halaya jam, tied with twine and kraft paper tag, a wooden spoon resting nearby showing the rich smooth texture, warm Texas sunlight." src="/images/vivencia/happy-customers-1.jpg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-secondary text-on-secondary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Pantry Jar
             </span>
@@ -420,7 +420,7 @@
 <!-- Visual Heritage Vignette -->
 <div class="lg:col-span-5 relative">
 <div class="rounded-xl overflow-hidden shadow-xl aspect-square bg-surface-container-high relative">
-<img class="w-full h-full object-cover" data-alt="Warm black and white portrait of a Filipino grandmother teaching an apprentice how to knead brioche pan de sal dough on a flour dusted wooden table, warm sunlit bakery kitchen, nostalgic heirloom feel." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAWZOTOXmdeFfJcXUWh6m0Hu20qbaheLOL0hAPtjELtE5Qq_xL_Xlgk6czB31qF0w-QVT8dVvdipzSB-n6p7T-NGYNjVY3tw-Su-dsnaTGiFTKU26vWDrW-MMHleWP5pzmlXrrHZbwGOinjWEgkRWNu_Op0jBxxqUrSWSlhJF8-8UGPchz9lLeYjKj72FASjmGzmOf4Gz3yS-qYOkTIA-N6uBUZIuIsXXbYI7J3KTTZx8DmodeeLpAH1A">
+<img class="w-full h-full object-cover" data-alt="Warm black and white portrait of a Filipino grandmother teaching an apprentice how to knead brioche pan de sal dough on a flour dusted wooden table, warm sunlit bakery kitchen, nostalgic heirloom feel." src="/images/vivencia/vivencia-pop-up.jpg">
 <div class="absolute inset-0 bg-primary-container/10 mix-blend-color"></div>
 </div>
 <!-- Decorative Floating Stamp Badge -->
@@ -465,10 +465,48 @@
 </div>
 </div>
 <div class="flex flex-wrap items-center gap-space-md">
-<a class="inline-flex items-center gap-space-xs text-primary font-label-lg text-label-lg hover:underline" href="#">
-<span class="">Read our generational baking story</span>
+<a class="inline-flex items-center gap-space-xs text-primary font-label-lg text-label-lg hover:underline" href="https://www.instagram.com/vivencia_satx?igsh=MWxmOTE0Z2M4cmxxZw==" target="_blank" rel="noopener">
+<span class="">Visit us on Instagram</span>
 <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
 </a>
+</div>
+</div>
+</div>
+</section>
+<!-- Real Customer Moments & Reviews -->
+<section class="w-full bg-surface-container-lowest py-space-xl">
+<div class="max-w-[1280px] mx-auto px-margin md:px-margin-tablet lg:px-margin-desktop">
+<div class="text-center max-w-2xl mx-auto mb-space-lg">
+<div class="flex items-center justify-center gap-2 text-primary mb-1">
+<span class="material-symbols-outlined text-label-md">favorite</span>
+<span class="font-label-sm text-label-sm uppercase tracking-widest text-primary font-bold">Loved by families near and far</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">Real customers, real reviews, real Vivencia bakes</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">
+        Every photo here comes from Vivencia pop-ups, customer pickups, and review screenshots shared with us.
+      </p>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-space-md">
+<div class="bg-surface-container-low rounded-xl overflow-hidden shadow-sm">
+<img class="w-full h-80 object-cover" src="/images/vivencia/happy-customers-1.jpg" alt="Happy Vivencia customers holding freshly baked Filipino breads">
+<div class="p-space-md">
+<h3 class="font-headline-sm text-headline-sm text-on-surface">Happy pickup moments</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1">Freshly packed breads and delicacies, ready for families to share at home.</p>
+</div>
+</div>
+<div class="bg-surface-container-low rounded-xl overflow-hidden shadow-sm">
+<img class="w-full h-80 object-cover object-top" src="/images/vivencia/reviews.jpg" alt="Customer message review for Vivencia ube cake">
+<div class="p-space-md">
+<h3 class="font-headline-sm text-headline-sm text-on-surface">Customer notes</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1">Customers come back for flavors that are rich, soft, and not overly sweet.</p>
+</div>
+</div>
+<div class="bg-surface-container-low rounded-xl overflow-hidden shadow-sm">
+<img class="w-full h-80 object-cover object-top" src="/images/vivencia/reviewss.jpg" alt="Facebook review and product photos for Vivencia ensaymada">
+<div class="p-space-md">
+<h3 class="font-headline-sm text-headline-sm text-on-surface">10/10 from afar</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1">From Texas to family tables out of state, Vivencia bakes travel with care.</p>
+</div>
 </div>
 </div>
 </div>
@@ -499,11 +537,11 @@
 </div>
 </div>
 <a class="inline-flex items-center justify-center px-space-lg py-space-sm rounded-full bg-primary text-on-primary font-label-md text-label-md shadow hover:bg-primary-container transition-colors" href="#menu-delights">
-            Start Your Order Request
+            Start Your Order
           </a>
 </div>
 <div class="w-full lg:w-1/2 h-72 rounded-xl overflow-hidden shadow-inner relative">
-<div class="w-full h-full bg-cover bg-center rounded-xl" data-location="Wurzbach Road and Bandera Road, San Antonio, TX 78238" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDEyfAng8A9UrAo22cSd3MX2dAT3erTOBt4jfcwyrvzx7FBOLdYaZIQN5vd2suoxnhAGGmKgjOOl8XrrtmsxAgqaZaTTDNotuteJEjMg1pGeKLZFblhC0PnhsFSEolKu8MrkxDuk5QYq1X85y691E7l4E8oVRiptSxRyQgSwCwjke9bW8T6L_2bhRkW8bxM7-h6vOaAstF7hdudkjdD7fQt2Vrez8qqxm7OhYiqjCgF2rHnZNZO5G0FVw')"></div>
+<div class="w-full h-full bg-cover bg-center rounded-xl" data-location="Wurzbach Road and Bandera Road, San Antonio, TX 78238" style="background-image: url('/images/vivencia/product.jpg')"></div>
 <div class="absolute bottom-3 left-3 bg-surface-container-lowest/90 backdrop-blur px-space-md py-space-xs rounded-lg shadow text-on-surface font-label-sm text-label-sm flex items-center gap-1">
 <span class="material-symbols-outlined text-primary text-[16px]">pin_drop</span>
 <span class="">Wurzbach Rd &amp; Bandera Rd Hub (78238)</span>
@@ -567,6 +605,6 @@
       });
     });
   </script>
-</div></main><footer class="w-full bg-surface-container border-t border-primary-container/15 mt-space-xl"><div class="max-w-[1280px] mx-auto px-margin md:px-margin-tablet lg:px-margin-desktop py-space-xl flex flex-col items-center text-center"><div class="flex items-center justify-center gap-space-sm text-primary mb-space-md"><span class="material-symbols-outlined text-headline-sm">grain</span><span class="material-symbols-outlined text-headline-md">wb_sunny</span><span class="material-symbols-outlined text-headline-sm">grain</span></div><div class="font-headline-sm text-headline-sm text-primary mb-space-xs">Vivencia Artisan Panaderia</div><p class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider mb-space-md">San Antonio, TX · Pick-Up Only</p><div class="flex flex-wrap items-center justify-center gap-space-lg mb-space-lg text-on-surface-variant font-body-sm text-body-sm"><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[18px]">sms</span><span class="">SMS Orders &amp; Inquiries: (210) 555-0192</span></div><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[18px]">schedule</span><span class="">Thurs - Sun: 7:00 AM – Sold Out</span></div></div><div class="flex items-center justify-center gap-space-md mb-space-lg"><a class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-colors" href="#"><span class="material-symbols-outlined text-[18px]">photo_camera</span></a><a class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-colors" href="#"><span class="material-symbols-outlined text-[18px]">public</span></a></div><div class="max-w-md p-space-sm rounded-lg bg-surface-container-low border border-outline-variant/30 text-on-surface-variant font-body-sm text-body-sm mb-space-md"><span class="font-label-sm text-label-sm text-primary uppercase block mb-0.5">Notice</span>Custom cakes &amp; specialty delicacy orders require a 50% advance deposit to secure bake slots.</div><p class="font-label-sm text-label-sm text-outline">© 2024 Vivencia Panaderia. Handcrafted with Heritage in San Antonio, Texas.</p></div></footer>
+</div></main><footer class="w-full bg-surface-container border-t border-primary-container/15 mt-space-xl"><div class="max-w-[1280px] mx-auto px-margin md:px-margin-tablet lg:px-margin-desktop py-space-xl flex flex-col items-center text-center"><div class="flex items-center justify-center gap-space-sm text-primary mb-space-md"><span class="material-symbols-outlined text-headline-sm">grain</span><span class="material-symbols-outlined text-headline-md">wb_sunny</span><span class="material-symbols-outlined text-headline-sm">grain</span></div><div class="font-headline-sm text-headline-sm text-primary mb-space-xs">Vivencia Artisan Panaderia</div><p class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider mb-space-md">San Antonio, TX · Pick-Up Only</p><div class="flex flex-wrap items-center justify-center gap-space-lg mb-space-lg text-on-surface-variant font-body-sm text-body-sm"><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[18px]">sms</span><span class="">SMS Orders &amp; Inquiries: (210) 555-0192</span></div><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[18px]">schedule</span><span class="">Thurs - Sun: 7:00 AM – Sold Out</span></div></div><div class="flex items-center justify-center gap-space-md mb-space-lg"><a class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-colors" href="https://www.instagram.com/vivencia_satx?igsh=MWxmOTE0Z2M4cmxxZw==" target="_blank" rel="noopener" aria-label="Vivencia Instagram"><span class="material-symbols-outlined text-[18px]">photo_camera</span></a><a class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-colors" href="https://www.facebook.com/profile.php?id=100076704361961" target="_blank" rel="noopener" aria-label="Vivencia Facebook"><span class="material-symbols-outlined text-[18px]">public</span></a></div><div class="max-w-md p-space-sm rounded-lg bg-surface-container-low border border-outline-variant/30 text-on-surface-variant font-body-sm text-body-sm mb-space-md"><span class="font-label-sm text-label-sm text-primary uppercase block mb-0.5">Notice</span>Custom cakes &amp; specialty delicacy orders require a 50% advance deposit to secure bake slots.</div><p class="font-label-sm text-label-sm text-outline">© 2024 Vivencia Panaderia. Handcrafted with Heritage in San Antonio, Texas.</p></div></footer>
 
 </body></html>

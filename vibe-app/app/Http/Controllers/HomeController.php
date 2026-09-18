@@ -23,6 +23,11 @@ class HomeController extends Controller
         return view('menu');
     }
 
+    public function contact(): View
+    {
+        return view('contact');
+    }
+
     public function order(Request $request): View
     {
         return view('order', [
