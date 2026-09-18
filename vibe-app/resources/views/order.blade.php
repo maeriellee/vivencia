@@ -25,7 +25,6 @@
             <nav class="hidden flex-wrap gap-5 text-sm font-bold uppercase tracking-wide md:flex">
                 <a class="text-on-surface-variant hover:text-primary" href="/">Home</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/menu">Menu</a>
-                <a class="text-primary" href="/order">Pre-Order</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/gallery">Gallery</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/about">About</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/contact">Contact</a>
@@ -65,6 +64,9 @@
 
                 <label class="grid gap-2 text-sm font-bold">Preferred pickup
                     <select class="vivencia-input" name="pickup_date">
+                        @if (!empty($pickupDate))
+                            <option selected>{{ $pickupDate }}</option>
+                        @endif
                         <option>Next available Saturday 2:00 PM - 5:00 PM</option>
                         <option>Next available Sunday 2:00 PM - 5:00 PM</option>
                         <option>Custom pickup request in notes</option>

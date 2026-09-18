@@ -22,7 +22,6 @@
             <nav class="hidden flex-wrap items-center gap-5 text-sm font-bold uppercase tracking-wide lg:flex">
                 <a class="text-on-surface-variant hover:text-primary" href="/">Home</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/menu">Menu</a>
-                <a class="text-on-surface-variant hover:text-primary" href="/order">Pre-Order</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/gallery">Gallery</a>
                 <a class="text-primary" href="/about">About</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/contact">Contact</a>
@@ -32,10 +31,10 @@
     </header>
 
     <main>
-        <section class="relative min-h-[560px] overflow-hidden bg-inverse-surface">
-            <img class="absolute inset-0 h-full w-full object-cover" src="/images/vivencia/header-photo.jpg" alt="Vivencia family at a Filipino bakery pop-up table">
+        <section class="relative min-h-[620px] overflow-hidden bg-inverse-surface">
+            <img class="absolute inset-0 h-full w-full object-cover object-[center_35%]" src="/images/vivencia/header-photo.jpg" alt="Vivencia family at a Filipino bakery pop-up table">
             <div class="absolute inset-0 bg-gradient-to-r from-[#2b1009]/95 via-[#2b1009]/70 to-[#2b1009]/20"></div>
-            <div class="relative mx-auto flex min-h-[560px] max-w-[1180px] items-end px-4 py-14 md:px-8">
+            <div class="relative mx-auto flex min-h-[620px] max-w-[1180px] items-end px-4 py-14 md:px-8">
                 <div class="max-w-3xl text-white">
                     <p class="font-bold uppercase tracking-[0.22em] text-tertiary-fixed-dim">Our story</p>
                     <h1 class="mt-3 font-[Epilogue] text-5xl font-extrabold md:text-6xl">Named for our grandmother. Baked from memory.</h1>

@@ -23,6 +23,13 @@ class HomeController extends Controller
         return view('menu');
     }
 
+    public function preOrder(): View
+    {
+        return view('menu', [
+            'preorderMode' => true,
+        ]);
+    }
+
     public function contact(): View
     {
         return view('contact');
@@ -38,6 +45,7 @@ class HomeController extends Controller
         return view('order', [
             'cartJson' => $request->query('cart', '{}'),
             'customer' => $this->currentCustomer($request),
+            'pickupDate' => $request->query('pickup_date', ''),
         ]);
     }
 

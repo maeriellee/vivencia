@@ -22,7 +22,6 @@
             <nav class="hidden flex-wrap items-center gap-5 text-sm font-bold uppercase tracking-wide lg:flex">
                 <a class="text-on-surface-variant hover:text-primary" href="/">Home</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/menu">Menu</a>
-                <a class="text-on-surface-variant hover:text-primary" href="/order">Pre-Order</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/gallery">Gallery</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/about">About</a>
                 <a class="text-primary" href="/contact">Contact</a>
@@ -32,14 +31,14 @@
     </header>
 
     <main>
-        <section class="relative min-h-[520px] overflow-hidden bg-inverse-surface">
-            <img class="absolute inset-0 h-full w-full object-cover" src="/images/vivencia/header-photo.jpg" alt="Vivencia pop-up table with family and Filipino baked goods">
+        <section class="relative min-h-[620px] overflow-hidden bg-inverse-surface">
+            <img class="absolute inset-0 h-full w-full object-cover object-[center_35%]" src="/images/vivencia/header-photo.jpg" alt="Vivencia pop-up table with family and Filipino baked goods">
             <div class="absolute inset-0 bg-gradient-to-r from-[#2b1009]/90 via-[#2b1009]/60 to-transparent"></div>
-            <div class="relative mx-auto flex min-h-[520px] max-w-[1180px] items-end px-4 py-12 md:px-8">
+            <div class="relative mx-auto flex min-h-[620px] max-w-[1180px] items-end px-4 py-12 md:px-8">
                 <div class="max-w-2xl text-white">
                     <p class="font-bold uppercase tracking-[0.22em] text-tertiary-fixed-dim">San Antonio pickup bakery</p>
                     <h1 class="mt-3 font-[Epilogue] text-5xl font-extrabold">Contact Vivencia</h1>
-                    <p class="mt-4 text-lg text-white/85">Message us for custom cakes, pop-up pickup details, and Filipino bread and delicacy pre-orders.</p>
+                    <p class="mt-4 text-lg text-white/85">Message us for custom cakes, pop-up pickup details, and Filipino bread and delicacy orders.</p>
                 </div>
             </div>
         </section>

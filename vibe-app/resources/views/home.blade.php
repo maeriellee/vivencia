@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport"><link href="https://fonts.googleapis.com" rel="preconnect"><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"><link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@600;700;800&amp;family=Nunito+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"primary":"#801a19","surface-container-highest":"#f1dfd7","inverse-surface":"#392e29","error-container":"#ffdad6","on-tertiary":"#ffffff","inverse-on-surface":"#ffede5","on-secondary":"#ffffff","primary-container":"#a0322d","on-primary":"#ffffff","surface-container-high":"#f7e4dc","secondary-fixed":"#f9d8ff","secondary-container":"#edb1ff","background":"#fff8f6","tertiary-fixed-dim":"#f4be47","on-primary-fixed-variant":"#87201d","primary-fixed":"#ffdad6","secondary-fixed-dim":"#edb1ff","on-secondary-container":"#703e83","outline":"#8b716e","tertiary-fixed":"#ffdea2","inverse-primary":"#ffb4ac","secondary":"#7d4a90","surface-tint":"#a73732","on-tertiary-fixed-variant":"#5c4200","surface-dim":"#e9d6ce","surface-container-low":"#fff1eb","surface-container-lowest":"#ffffff","outline-variant":"#debfbc","on-background":"#231a15","on-surface-variant":"#57413f","surface-variant":"#f1dfd7","on-tertiary-fixed":"#261900","on-primary-fixed":"#410003","surface":"#fff8f6","on-secondary-fixed":"#320046","tertiary":"#563e00","on-primary-container":"#ffc1bb","on-tertiary-container":"#ffc852","tertiary-container":"#735400","surface-container":"#fdeae2","on-error-container":"#93000a","on-surface":"#231a15","on-error":"#ffffff","on-secondary-fixed-variant":"#633276","error":"#ba1a1a","primary-fixed-dim":"#ffb4ac","surface-bright":"#fff8f6"},"borderRadius":{"DEFAULT":"0.25rem","lg":"0.5rem","xl":"0.75rem","full":"9999px"},"spacing":{"space-lg":"1.5rem","margin":"1rem","space-md":"1rem","margin-tablet":"2rem","space-xl":"2.5rem","space-xs":"0.25rem","space-sm":"0.5rem","gutter":"1.25rem","margin-desktop":"3rem","gutter-desktop":"2rem"},"fontFamily":{"display-hero":["Epilogue"],"display-hero-mobile":["Epilogue"],"body-sm":["Nunito Sans"],"headline-sm":["Epilogue"],"body-lg":["Nunito Sans"],"body-md":["Nunito Sans"],"headline-lg-mobile":["Epilogue"],"label-md":["Epilogue"],"headline-md":["Epilogue"],"headline-lg":["Epilogue"],"label-lg":["Epilogue"],"label-sm":["Epilogue"]},"fontSize":{"display-hero":["56px",{"lineHeight":"64px","letterSpacing":"-0.02em","fontWeight":"800"}],"display-hero-mobile":["38px",{"lineHeight":"44px","letterSpacing":"-0.01em","fontWeight":"800"}],"body-sm":["14px",{"lineHeight":"20px","fontWeight":"400"}],"headline-sm":["20px",{"lineHeight":"28px","letterSpacing":"0.01em","fontWeight":"600"}],"body-lg":["18px",{"lineHeight":"28px","fontWeight":"400"}],"body-md":["16px",{"lineHeight":"24px","fontWeight":"400"}],"headline-lg-mobile":["28px",{"lineHeight":"34px","letterSpacing":"0em","fontWeight":"700"}],"label-md":["13px",{"lineHeight":"18px","letterSpacing":"0.06em","fontWeight":"700"}],"headline-md":["24px",{"lineHeight":"32px","letterSpacing":"0em","fontWeight":"700"}],"headline-lg":["36px",{"lineHeight":"44px","letterSpacing":"-0.01em","fontWeight":"700"}],"label-lg":["15px",{"lineHeight":"20px","letterSpacing":"0.04em","fontWeight":"700"}],"label-sm":["11px",{"lineHeight":"16px","letterSpacing":"0.08em","fontWeight":"600"}]}}}}</script><link rel="stylesheet" href="/css/vivencia-brown.css"></head><body class="bg-background font-body-md text-body-md text-on-surface"><header class="fixed top-0 left-0 w-full z-50 bg-surface-container-lowest/95 backdrop-blur-md border-b border-primary-container/20 shadow-[0_4px_14px_-2px_rgba(45,35,30,0.08)]"><div class="h-20 max-w-[1280px] mx-auto px-margin md:px-margin-tablet lg:px-margin-desktop flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-md shrink-0"><img alt="Vivencia Heritage Bakery Logo" class="h-12 w-12 object-contain rounded-full bg-white" src="/images/menu/vivencia-logo.jpeg"><div class="flex flex-col"><span class="font-headline-md text-headline-md text-primary leading-none tracking-tight">Vivencia</span><span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mt-0.5">Bread · Cake · Delicacy - San Antonio, TX</span></div></div><nav class="hidden lg:flex items-center gap-space-lg" data-active-classes="text-primary font-bold border-b-2 border-primary pb-1"><a aria-current="page" class="transition-colors text-primary font-bold border-b-2 border-primary pb-1" data-path="home" href="#">Home</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="menu" href="/menu">Menu</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="pre-order" href="/order">Pre-Order</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="gallery" href="/gallery">Gallery</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="about" href="/about">About</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="contact" href="/contact">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><a class="hidden sm:inline-flex items-center justify-center px-space-lg py-space-sm rounded-full bg-tertiary-fixed-dim text-on-tertiary-fixed font-label-md text-label-md shadow-[0_4px_14px_-2px_rgba(45,35,30,0.12)] hover:bg-tertiary-fixed transition-all" data-path="menu" href="/menu">Order Now</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-background"><div class="flex flex-col w-full">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"primary":"#801a19","surface-container-highest":"#f1dfd7","inverse-surface":"#392e29","error-container":"#ffdad6","on-tertiary":"#ffffff","inverse-on-surface":"#ffede5","on-secondary":"#ffffff","primary-container":"#a0322d","on-primary":"#ffffff","surface-container-high":"#f7e4dc","secondary-fixed":"#f9d8ff","secondary-container":"#edb1ff","background":"#fff8f6","tertiary-fixed-dim":"#f4be47","on-primary-fixed-variant":"#87201d","primary-fixed":"#ffdad6","secondary-fixed-dim":"#edb1ff","on-secondary-container":"#703e83","outline":"#8b716e","tertiary-fixed":"#ffdea2","inverse-primary":"#ffb4ac","secondary":"#7d4a90","surface-tint":"#a73732","on-tertiary-fixed-variant":"#5c4200","surface-dim":"#e9d6ce","surface-container-low":"#fff1eb","surface-container-lowest":"#ffffff","outline-variant":"#debfbc","on-background":"#231a15","on-surface-variant":"#57413f","surface-variant":"#f1dfd7","on-tertiary-fixed":"#261900","on-primary-fixed":"#410003","surface":"#fff8f6","on-secondary-fixed":"#320046","tertiary":"#563e00","on-primary-container":"#ffc1bb","on-tertiary-container":"#ffc852","tertiary-container":"#735400","surface-container":"#fdeae2","on-error-container":"#93000a","on-surface":"#231a15","on-error":"#ffffff","on-secondary-fixed-variant":"#633276","error":"#ba1a1a","primary-fixed-dim":"#ffb4ac","surface-bright":"#fff8f6"},"borderRadius":{"DEFAULT":"0.25rem","lg":"0.5rem","xl":"0.75rem","full":"9999px"},"spacing":{"space-lg":"1.5rem","margin":"1rem","space-md":"1rem","margin-tablet":"2rem","space-xl":"2.5rem","space-xs":"0.25rem","space-sm":"0.5rem","gutter":"1.25rem","margin-desktop":"3rem","gutter-desktop":"2rem"},"fontFamily":{"display-hero":["Epilogue"],"display-hero-mobile":["Epilogue"],"body-sm":["Nunito Sans"],"headline-sm":["Epilogue"],"body-lg":["Nunito Sans"],"body-md":["Nunito Sans"],"headline-lg-mobile":["Epilogue"],"label-md":["Epilogue"],"headline-md":["Epilogue"],"headline-lg":["Epilogue"],"label-lg":["Epilogue"],"label-sm":["Epilogue"]},"fontSize":{"display-hero":["56px",{"lineHeight":"64px","letterSpacing":"-0.02em","fontWeight":"800"}],"display-hero-mobile":["38px",{"lineHeight":"44px","letterSpacing":"-0.01em","fontWeight":"800"}],"body-sm":["14px",{"lineHeight":"20px","fontWeight":"400"}],"headline-sm":["20px",{"lineHeight":"28px","letterSpacing":"0.01em","fontWeight":"600"}],"body-lg":["18px",{"lineHeight":"28px","fontWeight":"400"}],"body-md":["16px",{"lineHeight":"24px","fontWeight":"400"}],"headline-lg-mobile":["28px",{"lineHeight":"34px","letterSpacing":"0em","fontWeight":"700"}],"label-md":["13px",{"lineHeight":"18px","letterSpacing":"0.06em","fontWeight":"700"}],"headline-md":["24px",{"lineHeight":"32px","letterSpacing":"0em","fontWeight":"700"}],"headline-lg":["36px",{"lineHeight":"44px","letterSpacing":"-0.01em","fontWeight":"700"}],"label-lg":["15px",{"lineHeight":"20px","letterSpacing":"0.04em","fontWeight":"700"}],"label-sm":["11px",{"lineHeight":"16px","letterSpacing":"0.08em","fontWeight":"600"}]}}}}</script><link rel="stylesheet" href="/css/vivencia-brown.css"></head><body class="bg-background font-body-md text-body-md text-on-surface"><header class="fixed top-0 left-0 w-full z-50 bg-surface-container-lowest/95 backdrop-blur-md border-b border-primary-container/20 shadow-[0_4px_14px_-2px_rgba(45,35,30,0.08)]"><div class="h-20 max-w-[1280px] mx-auto px-margin md:px-margin-tablet lg:px-margin-desktop flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-md shrink-0"><img alt="Vivencia Heritage Bakery Logo" class="h-12 w-12 object-contain rounded-full bg-white" src="/images/menu/vivencia-logo.jpeg"><div class="flex flex-col"><span class="font-headline-md text-headline-md text-primary leading-none tracking-tight">Vivencia</span><span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mt-0.5">Bread · Cake · Delicacy - San Antonio, TX</span></div></div><nav class="hidden lg:flex items-center gap-space-lg" data-active-classes="text-primary font-bold border-b-2 border-primary pb-1"><a aria-current="page" class="transition-colors text-primary font-bold border-b-2 border-primary pb-1" data-path="home" href="#">Home</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="menu" href="/menu">Menu</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="gallery" href="/gallery">Gallery</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="about" href="/about">About</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors" data-path="contact" href="/contact">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><a class="hidden sm:inline-flex items-center justify-center px-space-lg py-space-sm rounded-full bg-tertiary-fixed-dim text-on-tertiary-fixed font-label-md text-label-md shadow-[0_4px_14px_-2px_rgba(45,35,30,0.12)] hover:bg-tertiary-fixed transition-all" data-path="menu" href="/menu">Order Now</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-background"><div class="flex flex-col w-full">
 <!-- Top Visual Hero Section (Bleeding Under App Shell Header) -->
 <section class="relative w-full overflow-hidden bg-inverse-surface">
 <!-- Hero Background Image & Layered Tint Overlays -->
@@ -71,7 +71,7 @@
 <span class="text-tertiary-fixed-dim font-label-sm text-label-sm font-bold">• Filling Fast</span>
 </div>
 <h2 class="font-headline-sm text-headline-sm text-on-primary tracking-tight">
-            Pre-Order — Saturday Bake Sale Drop
+            Saturday Bake Sale Drop
           </h2>
 <p class="font-body-sm text-body-sm text-on-primary-container">
             Scheduled Pick-up: Saturday 2:00 PM – 5:00 PM near Wurzbach &amp; Bandera Rd (78238)
@@ -85,7 +85,7 @@
 </div>
 </div>
 </section>
-<!-- How Pre-Ordering Works Strip -->
+<!-- How Ordering Works Strip -->
 <section class="max-w-[1280px] mx-auto w-full px-margin md:px-margin-tablet lg:px-margin-desktop py-space-xl" id="preorder-flow">
 <div class="text-center max-w-xl mx-auto mb-space-lg">
 <div class="flex items-center justify-center gap-2 text-primary mb-1">
@@ -93,9 +93,9 @@
 <span class="font-label-sm text-label-sm uppercase tracking-widest text-primary font-bold">Simple Panaderia Protocol</span>
 <span class="material-symbols-outlined text-label-md">grain</span>
 </div>
-<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">How Pre-Ordering Works</h2>
+<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">How Ordering Works</h2>
 <p class="font-body-md text-body-md text-on-surface-variant mt-1">
-        Every batch is made with patience, premium dairy, and genuine ube. We operate exclusively on a pre-order model to ensure maximum freshness.
+        Every batch is made with patience, premium dairy, and genuine ube. We operate exclusively on a order model to ensure maximum freshness.
       </p>
 </div>
 <div class="grid grid-cols-1 md:grid-cols-3 gap-space-md">
@@ -403,7 +403,7 @@
           </div>
 <div>
 <h4 class="font-label-lg text-label-lg text-on-surface">Your Bake Request List</h4>
-<p class="font-body-sm text-body-sm text-on-surface-variant" id="cart-summary-text">Click items above to assemble your weekend preorder box.</p>
+<p class="font-body-sm text-body-sm text-on-surface-variant" id="cart-summary-text">Click items above to assemble your weekend order box.</p>
 </div>
 </div>
 <div class="flex items-center gap-space-md w-full md:w-auto">
@@ -414,6 +414,28 @@
 </div>
 </div>
 </section>
+<!-- Floating cart access for homepage ordering -->
+<button id="floating-cart-button" class="fixed bottom-5 right-5 z-50 hidden items-center gap-space-xs rounded-full bg-primary px-space-md py-space-sm text-on-primary shadow-xl hover:bg-primary-container" type="button" onclick="toggleFloatingCart()">
+<span class="material-symbols-outlined text-[20px]">shopping_bag</span>
+<span class="font-label-md text-label-md">Cart</span>
+<span id="floating-cart-count" class="ml-1 rounded-full bg-tertiary-fixed-dim px-2 py-0.5 text-on-tertiary-fixed font-label-sm text-label-sm">0</span>
+</button>
+<aside id="floating-cart-panel" class="fixed bottom-20 right-5 z-50 hidden w-[min(360px,calc(100vw-2rem))] rounded-xl border border-primary-container/20 bg-surface-container-lowest p-space-md shadow-2xl">
+<div class="flex items-start justify-between gap-space-md">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-on-surface">Order Tray</h3>
+<p id="floating-cart-message" class="font-body-sm text-body-sm text-on-surface-variant">Items you add will appear here.</p>
+</div>
+<button class="text-outline hover:text-primary" type="button" onclick="toggleFloatingCart(false)" aria-label="Close cart">
+<span class="material-symbols-outlined text-[20px]">close</span>
+</button>
+</div>
+<div id="floating-cart-items" class="mt-space-md grid gap-space-xs"></div>
+<a id="floating-cart-checkout" class="mt-space-md hidden w-full items-center justify-center gap-space-xs rounded-full bg-tertiary-fixed-dim px-space-md py-space-sm text-on-tertiary-fixed font-label-md text-label-md shadow hover:bg-tertiary-fixed" href="/order">
+Review Order
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</a>
+</aside>
 <!-- Heritage & Story Teaser (Editorial Asymmetric Layout) -->
 <section class="max-w-[1280px] mx-auto w-full px-margin md:px-margin-tablet lg:px-margin-desktop py-space-xl">
 <div class="grid grid-cols-1 lg:grid-cols-12 gap-space-lg items-center">
@@ -461,7 +483,7 @@
           </p>
 <div class="flex items-center justify-between text-on-surface-variant font-label-sm text-label-sm">
 <span class="font-bold text-primary">— Maria S. · San Antonio Resident</span>
-<span class="text-outline">Verified Pre-Order Pick-up</span>
+<span class="text-outline">Verified Pickup</span>
 </div>
 </div>
 <div class="flex flex-wrap items-center gap-space-md">
@@ -524,7 +546,7 @@
             Convenient Pick-up in Northwest San Antonio
           </h3>
 <p class="font-body-md text-body-md text-on-surface-variant mb-space-md leading-relaxed">
-            All baked pre-orders are safely packaged and ready during your reserved time slot near the Wurzbach and Bandera corridor. Full address details and pickup code are delivered directly to your SMS invoice upon 50% deposit confirmation.
+            All baked orders are safely packaged and ready during your reserved time slot near the Wurzbach and Bandera corridor. Full address details and pickup code are delivered directly to your SMS invoice upon 50% deposit confirmation.
           </p>
 <div class="space-y-space-xs mb-space-md font-body-sm text-body-sm text-on-surface-variant">
 <div class="flex items-center gap-space-sm">
@@ -553,33 +575,75 @@
 <!-- Interactive JavaScript for Tab Filtering & Request Basket -->
 <script src="/js/vivencia-cart.js"></script>
 <script>
-    const orderItems = [];
+    let cartState = vivenciaCartStore.read();
 
     function handleAddToCart(name, price) {
-      orderItems.push({ name, price });
+      if (cartState[name]) {
+        cartState[name].quantity += 1;
+      } else {
+        cartState[name] = { price, quantity: 1 };
+      }
+      vivenciaCartStore.write(cartState);
       updateCartUI();
+      toggleFloatingCart(true);
     }
 
     function updateCartUI() {
       const counter = document.getElementById('cart-counter');
       const text = document.getElementById('cart-summary-text');
       const btn = document.getElementById('checkout-btn');
+      const floatingButton = document.getElementById('floating-cart-button');
+      const floatingCount = document.getElementById('floating-cart-count');
+      const floatingItems = document.getElementById('floating-cart-items');
+      const floatingCheckout = document.getElementById('floating-cart-checkout');
+      const floatingMessage = document.getElementById('floating-cart-message');
+      const items = vivenciaCartStore.asItems(cartState);
+      const itemCount = items.reduce((total, item) => total + item.quantity, 0);
+      const total = items.reduce((acc, curr) => acc + (curr.price * curr.quantity), 0);
 
-      if (counter) counter.innerText = orderItems.length;
+      if (counter) counter.innerText = itemCount;
+      if (floatingCount) floatingCount.innerText = itemCount;
+      if (floatingButton) floatingButton.classList.toggle('hidden', itemCount === 0);
+      if (floatingButton) floatingButton.classList.toggle('inline-flex', itemCount > 0);
 
-      if (orderItems.length > 0) {
-        const total = orderItems.reduce((acc, curr) => acc + curr.price, 0);
+      if (floatingItems) {
+        floatingItems.innerHTML = items.map(item => `
+          <div class="flex items-center justify-between rounded-lg bg-surface-container-low px-space-sm py-space-xs">
+            <span class="font-body-sm text-body-sm text-on-surface">${item.quantity} x ${item.name}</span>
+            <strong class="font-label-sm text-label-sm text-primary">$${(item.price * item.quantity).toFixed(2)}</strong>
+          </div>
+        `).join('');
+      }
+
+      if (floatingCheckout) {
+        floatingCheckout.href = '/order?cart=' + encodeURIComponent(JSON.stringify(items));
+        floatingCheckout.classList.toggle('hidden', itemCount === 0);
+        floatingCheckout.classList.toggle('inline-flex', itemCount > 0);
+      }
+
+      if (floatingMessage && itemCount > 0) {
+        floatingMessage.innerHTML = `<strong>${itemCount}</strong> item(s) added · $${total.toFixed(2)} subtotal`;
+      }
+
+      if (itemCount > 0) {
         if (text) {
-          text.innerHTML = `<strong>${orderItems.length} delicacy item(s)</strong> selected · Estimated Subtotal: <strong>$${total}</strong> (Deposit: $${(total * 0.5).toFixed(2)})`;
+          text.innerHTML = `<strong>${itemCount} delicacy item(s)</strong> selected · Estimated Subtotal: <strong>$${total.toFixed(2)}</strong> (Deposit: $${(total * 0.5).toFixed(2)})`;
         }
         if (btn) {
           btn.disabled = false;
           btn.classList.remove('bg-outline-variant', 'text-on-surface-variant', 'cursor-not-allowed');
           btn.classList.add('bg-tertiary-fixed-dim', 'text-on-tertiary-fixed', 'shadow-md', 'hover:bg-tertiary-fixed');
-          btn.innerText = `Review Order ($${total})`;
+          btn.innerText = `Review Order ($${total.toFixed(2)})`;
           btn.onclick = () => { window.location.href = '/order?cart=' + encodeURIComponent(JSON.stringify(vivenciaCartStore.asItems(vivenciaCartStore.read()))); };
         }
       }
+    }
+
+    function toggleFloatingCart(forceOpen) {
+      const panel = document.getElementById('floating-cart-panel');
+      if (!panel) return;
+      const shouldOpen = typeof forceOpen === 'boolean' ? forceOpen : panel.classList.contains('hidden');
+      panel.classList.toggle('hidden', !shouldOpen);
     }
 
     // Category Filter Functionality
@@ -604,6 +668,8 @@
         });
       });
     });
+
+    updateCartUI();
   </script>
 </div></main><footer class="w-full bg-surface-container border-t border-primary-container/15 mt-space-xl"><div class="max-w-[1280px] mx-auto px-margin md:px-margin-tablet lg:px-margin-desktop py-space-xl flex flex-col items-center text-center"><div class="flex items-center justify-center gap-space-sm text-primary mb-space-md"><span class="material-symbols-outlined text-headline-sm">grain</span><span class="material-symbols-outlined text-headline-md">wb_sunny</span><span class="material-symbols-outlined text-headline-sm">grain</span></div><div class="font-headline-sm text-headline-sm text-primary mb-space-xs">Vivencia Artisan Panaderia</div><p class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider mb-space-md">San Antonio, TX · Pick-Up Only</p><div class="flex flex-wrap items-center justify-center gap-space-lg mb-space-lg text-on-surface-variant font-body-sm text-body-sm"><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[18px]">sms</span><span class="">SMS Orders &amp; Inquiries: (210) 555-0192</span></div><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[18px]">schedule</span><span class="">Thurs - Sun: 7:00 AM – Sold Out</span></div></div><div class="flex items-center justify-center gap-space-md mb-space-lg"><a class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-colors" href="https://www.instagram.com/vivencia_satx?igsh=MWxmOTE0Z2M4cmxxZw==" target="_blank" rel="noopener" aria-label="Vivencia Instagram"><span class="material-symbols-outlined text-[18px]">photo_camera</span></a><a class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-colors" href="https://www.facebook.com/profile.php?id=100076704361961" target="_blank" rel="noopener" aria-label="Vivencia Facebook"><span class="material-symbols-outlined text-[18px]">public</span></a></div><div class="max-w-md p-space-sm rounded-lg bg-surface-container-low border border-outline-variant/30 text-on-surface-variant font-body-sm text-body-sm mb-space-md"><span class="font-label-sm text-label-sm text-primary uppercase block mb-0.5">Notice</span>Custom cakes &amp; specialty delicacy orders require a 50% advance deposit to secure bake slots.</div><p class="font-label-sm text-label-sm text-outline">© 2024 Vivencia Panaderia. Handcrafted with Heritage in San Antonio, Texas.</p></div></footer>
 
