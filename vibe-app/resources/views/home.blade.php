@@ -371,7 +371,7 @@
 <!-- Product 8: Housemade Ube Jam (Halaya) -->
 <div class="delight-card bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between shadow-sm hover:shadow-lg transition-all duration-300 group" data-category="halaya">
 <div class="relative w-full h-56 rounded-lg overflow-hidden mb-space-sm bg-surface-dim">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A vintage glass mason jar filled with thick royal purple Ube Halaya jam, tied with twine and kraft paper tag, a wooden spoon resting nearby showing the rich smooth texture, warm Texas sunlight." src="/images/vivencia/happy-customers-1.jpg">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Glass jar of royal purple ube halaya wrapped in kraft paper and tied with twine, styled with purple flowers." src="/images/menu/ube-jam.jpeg">
 <span class="absolute top-2 left-2 px-2.5 py-0.5 rounded-full bg-secondary text-on-secondary font-label-sm text-label-sm tracking-wider uppercase shadow">
               Pantry Jar
             </span>
