@@ -22,10 +22,13 @@
                     <div class="text-xs font-bold uppercase tracking-[0.18em] text-on-surface-variant">Bread · Cake · Delicacy</div>
                 </div>
             </a>
-            <nav class="hidden gap-6 text-sm font-bold uppercase tracking-wide md:flex">
+            <nav class="hidden flex-wrap gap-5 text-sm font-bold uppercase tracking-wide md:flex">
                 <a class="text-on-surface-variant hover:text-primary" href="/">Home</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/menu">Menu</a>
-                <a class="text-primary" href="/order">Order</a>
+                <a class="text-primary" href="/order">Pre-Order</a>
+                <a class="text-on-surface-variant hover:text-primary" href="/gallery">Gallery</a>
+                <a class="text-on-surface-variant hover:text-primary" href="/about">About</a>
+                <a class="text-on-surface-variant hover:text-primary" href="/contact">Contact</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/customer/dashboard">Dashboard</a>
             </nav>
         </div>

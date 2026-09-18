@@ -19,12 +19,15 @@
                     <div class="text-xs font-bold uppercase tracking-[0.18em] text-on-surface-variant">Bread · Cake · Delicacy</div>
                 </div>
             </a>
-            <nav class="flex flex-wrap items-center gap-5 text-sm font-bold uppercase tracking-wide">
+            <nav class="hidden flex-wrap items-center gap-5 text-sm font-bold uppercase tracking-wide lg:flex">
                 <a class="text-on-surface-variant hover:text-primary" href="/">Home</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/menu">Menu</a>
+                <a class="text-on-surface-variant hover:text-primary" href="/order">Pre-Order</a>
+                <a class="text-on-surface-variant hover:text-primary" href="/gallery">Gallery</a>
                 <a class="text-primary" href="/about">About</a>
                 <a class="text-on-surface-variant hover:text-primary" href="/contact">Contact</a>
             </nav>
+            <a class="inline-flex items-center justify-center rounded-full bg-tertiary-fixed-dim px-5 py-2 text-sm font-bold uppercase tracking-wide text-on-tertiary-fixed shadow hover:bg-tertiary-fixed" href="/menu">Order Now</a>
         </div>
     </header>
 
